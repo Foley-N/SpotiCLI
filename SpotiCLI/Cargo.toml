@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 curl = "0.4.47"
+dotenv = "0.15.0"
 reqwest = "0.12.9"
